@@ -23,7 +23,7 @@ const ShareYourTravelsForm: NextPage<ShareYourTravelsFormType> = ({
     <div className={[styles.shareYourTravelsForm, className].join(" ")}>
       <form className={styles.form}>
         <button className={styles.googleReview} onClick={onGoogleReviewClick}>
-          <img className={styles.ssoIcon} alt="" src="/sso-icon@2x.png" />
+          <img className={styles.ssoIcon} alt="" src="/Logo-google-icon-PNG (1).png" />
           <div className={styles.label}>Google Review</div>
         </button>
         <button

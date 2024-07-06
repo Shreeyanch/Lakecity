@@ -24,8 +24,8 @@
   align-self: stretch;
   width: 169px;
   position: relative;
-  max-height: 100%;
-  object-fit: cover;
+  height: 25px;
+  object-fit: fill;
   mix-blend-mode: normal;
 }
 .poweredByParent {
@@ -103,6 +103,7 @@
   }
   .letterLogo2 {
     width: 100px;
+    height: 15px;
   }
   .demoForm3Inner {
     display: flex;
